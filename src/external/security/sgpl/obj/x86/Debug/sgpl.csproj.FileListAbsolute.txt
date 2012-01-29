@@ -1,0 +1,5 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\sgpl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\sgpl\bin\Debug\sgpl.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\sgpl\bin\Debug\sgpl.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\sgpl\obj\x86\Debug\sgpl.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\sgpl\obj\x86\Debug\sgpl.pdb

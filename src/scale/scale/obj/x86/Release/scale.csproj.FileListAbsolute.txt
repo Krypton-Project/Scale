@@ -1,0 +1,16 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\bin\Release\Scale.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\bin\Release\Scale.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.about.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.contents.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.newProject.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\Scale.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\Scale.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.form.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.vpreface.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.batchexec.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.execrye.resources
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\scale\scale\obj\x86\Release\scale.parameters.resources

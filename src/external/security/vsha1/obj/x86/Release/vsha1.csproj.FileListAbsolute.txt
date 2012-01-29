@@ -1,0 +1,5 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\vsha1\bin\Release\vsha1.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\vsha1\bin\Release\vsha1.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\vsha1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\vsha1\obj\x86\Release\vsha1.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\scale\src\external\security\vsha1\obj\x86\Release\vsha1.pdb
